@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "format": "PDF 1.7",
+  "pageSize": "6 × 9.6 in",
+  "scope": "Main manuscript, glossary, and toolkit; archive and word lists remain online-only.",
+  "inspector": {
+    "name": "pypdf",
+    "version": "6.16.2"
+  },
+  "outputs": {
+    "zh-CN": {
+      "file": "life-level-up-guide-zh.pdf",
+      "language": "zh-CN",
+      "pages": 335,
+      "chapters": 62,
+      "bytes": 4685461,
+      "sha256": "827c2816f246f9d6c083bd950466fca099c3b0ad334ff4b12ae8c42f383402f7",
+      "sourceEpubSha256": "a9829ac5cffd2df767cf9deabbc96e495d9a2cf395b8bf1938da14e7d51b925c",
+      "semanticSha256": "5a430f46c0b062554e8996b4062c97d0c7b30a5a71530a3810e4282593f37433",
+      "outlineEntries": 776,
+      "linkAnnotations": 784,
+      "images": 21,
+      "fonts": [
+        {
+          "name": "Helvetica",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "NotoSans-Regular",
+          "subtype": "TrueType",
+          "embedded": true
+        },
+        {
+          "name": "NotoSerifSC-Bold",
+          "subtype": "TrueType",
+          "embedded": true
+        },
+        {
+          "name": "NotoSerifSC-Regular",
+          "subtype": "TrueType",
+          "embedded": true
+        }
+      ]
+    },
+    "en-US": {
+      "file": "life-level-up-guide-en.pdf",
+      "language": "en-US",
+      "pages": 377,
+      "chapters": 62,
+      "bytes": 3882791,
+      "sha256": "d2e8433f85e5f3e68e7931c95d0f92910b673cf8af8febe1e4ec5f21b3454735",
+      "sourceEpubSha256": "96c8d14573617aabe404a2dcb224faf0b1ffe8dd391d28f5ee58d527e04507df",
+      "semanticSha256": "0b205ed452578f936ca48f452bb639053835c026f3379705e015bbef32b337e1",
+      "outlineEntries": 776,
+      "linkAnnotations": 802,
+      "images": 21,
+      "fonts": [
+        {
+          "name": "Courier",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "Helvetica",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "Symbol",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "Times-Bold",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "Times-Italic",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "Times-Roman",
+          "subtype": "Type1",
+          "embedded": false
+        },
+        {
+          "name": "ZapfDingbats",
+          "subtype": "Type1",
+          "embedded": false
+        }
+      ]
+    }
+  }
+}
